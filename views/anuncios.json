@@ -1,0 +1,44 @@
+[
+{
+	
+	"nombre" : "Bicicleta",
+	"venta" : true,
+	"precio" : 230.15,
+	"foto" : "/images/bici.jpeg",
+	"tags" : [ "lifestyle", "motor" ]
+},{
+	
+	"nombre" : "iPhone 3GS",
+	"venta" : false,
+	"precio" : 50,
+	"foto" : "/images/iphone.jpg",
+	"tags" : [ "lifestyle", "mobile" ]
+},
+
+{
+	
+	"nombre" : "MacBookAir",
+	"venta" : true,
+	"precio" : 1200,
+	"foto" : "/images/mac.jpeg",
+	"tags" : [ "lifestyle", "work" ]
+},
+
+{
+	
+	"nombre" : "Mouse",
+	"venta" : false,
+	"precio" : 10,
+	"foto" : "/images/mouse.jpg",
+	"tags" : [ "lifestyle", "work" ]
+},
+
+{
+	
+	"nombre" : "Chair",
+	"precio" : 50,
+    "foto" : "/images/chair.jpg",
+	"tags" : [ ],
+	"__v" : 0
+}
+]
